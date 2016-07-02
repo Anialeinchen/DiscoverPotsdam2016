@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Discover Potsdam (2016)</string>
+    <string name="tasty_donuts">Tasty Donuts</string>
+    <string name="toast_message">Check out some awesome places!</string>
+    <string name="eisfrau">Eisfrau</string>
+    <string name="pubalapub">Pub a la Pub</string>
+    <string name="kuze">Kuze</string>
+    <string name="waschbar">Waschbar</string>
+
+    <string-array name="places_names">
+        <item>eisfrau</item>
+        <item>pubalapub</item>
+        <item>kuze</item>
+        <item>tasty_donuts</item>
+        <item>waschbar</item>
+    </string-array>
+
+    <string-array name="places_desc">
+        <item>Eisfrau is awesome</item>
+        <item>Pub a la Pub is super</item>
+        <item>Kuze is cool</item>
+        <item>Tasty donuts are tasty</item>
+        <item>Waschbar is clean</item>
+    </string-array>
+
+</resources>
